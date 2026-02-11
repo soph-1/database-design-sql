@@ -27,6 +27,7 @@ Lo schema ER completo è incluso nella repository per mostrare le **relazioni tr
 1. Clona il repository:
 ```bash
 git clone https://github.com/tuo-username/database-design-sql.git
+```
 2. Apri MySQL o un DBMS compatibile  
 3. Esegui lo script `script.sql` per creare il database, le tabelle, i trigger e inserire i dati di esempio  
 4. Visualizza lo schema ER con Draw.io (`schema_er.drawio`) o l’immagine (`schema_er.png`)  
