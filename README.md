@@ -30,7 +30,12 @@ git clone https://github.com/tuo-username/database-design-sql.git
 ```
 2. Apri MySQL o un DBMS compatibile  
 3. Esegui lo script `script.sql` per creare il database, le tabelle, i trigger e inserire i dati di esempio  
-4. Visualizza lo schema ER con Draw.io (`schema_er.drawio`) o l’immagine (`schema_er.png`)  
-5. Testa query, acquisti e promozioni direttamente sul database  
+4. Visualizza lo schema ER (`schemaER.png`)  
+5. Testa query, acquisti e promozioni direttamente sul database
 
-## Struttura del repository
+## Note
+- Il progetto è a scopo didattico  
+- Tutti i dati di utenti, eventi e pacchetti sono **fittizi**  
+- Trigger e procedure mostrano gestione automatizzata di vincoli e calcolo prezzi  
+- Lo schema ER facilita la comprensione delle relazioni tra tabelle e dei vincoli di integrità
+
