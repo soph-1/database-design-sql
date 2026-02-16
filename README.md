@@ -34,6 +34,8 @@ database-design-sql/
 │
 ├── script.sql         → Script SQL completo con tabelle, trigger e dati
 ├── schemaER.png       → Diagramma Entity-Relationship
+├── docs/
+│   └── relazione.pdf  → Relazione tecnica completa
 └── README.md
 ```
 
@@ -51,6 +53,14 @@ git clone https://github.com/tuo-username/database-design-sql.git
 4. Visualizza lo schema ER in `schemaER.png`
 
 5. Testa query, acquisti e promozioni direttamente sul database
+
+## 📖 Relazione Tecnica
+
+Per una spiegazione dettagliata della progettazione del database, della struttura delle tabelle e dei meccanismi di automazione implementati, consultare il documento tecnico in `docs/relazione.pdf` che copre:
+
+- **Analisi tecnica**: Descrizione della struttura del database e delle relazioni tra le tabelle
+- **Progettazione del schema**: Normalizzazione, vincoli di integrità e chiavi primarie/esterne
+- **Trigger e Stored Procedures**: Spiegazione dell'automazione di controlli e calcoli
 
 ## ⚠️ Disclaimer
 
