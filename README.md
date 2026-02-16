@@ -52,15 +52,11 @@ git clone https://github.com/tuo-username/database-design-sql.git
 
 5. Testa query, acquisti e promozioni direttamente sul database
 
-## ⚠️ Note
+## ⚠️ Disclaimer
 
-- Il progetto è realizzato a scopo didattico
-- Tutti i dati di utenti, eventi e pacchetti sono **fittizi**
-- Trigger e procedure mostrano la gestione automatizzata di vincoli e il calcolo dei prezzi
-- Lo schema ER facilita la comprensione delle relazioni tra tabelle e dei vincoli di integrità
+Questo progetto è stato sviluppato esclusivamente a scopo didattico e formativo.
 
-## 👨‍💻 Autore
-
+Tutti i dati di utenti, eventi e pacchetti sono **fittizi** e utilizzati esclusivamente a titolo esemplificativo. L'autore non si assume alcuna responsabilità per l'uso improprio del codice o delle informazioni contenute in questa repository.
 Progetto realizzato a scopo didattico e formativo.
 
 **GitHub**: [Link al profilo]
